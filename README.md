@@ -4,6 +4,8 @@
 
 -Crear un programa en el cual se pueda consultar los resultados de las selecciones de futbol seleccionadas, tambien se puede consultar las caracteristicas tanto del equipo como de los jugadores. 
 
+-como extra dar la opcion de apostar y en la selccion de apuestas aplicar descuentos.
+
 -Centrandonos principalmente en CONCACAF y relacionado con el mundial del 2022.
 
 ![](https://github.com/VICTORANIEV/TheFinalProject/blob/main/concacaf.2.0.jpg)
@@ -35,7 +37,7 @@ Si ha seleccionado apostar seleccionar opciones de apuesta.
               - Datos del jugador seleccionado.
               
               - Desea apostar:
-              - 
+              - Seleccionar opciones de apuesta y aplicar descuentos correspondientes.
 
 
 

@@ -52,7 +52,7 @@ Si ha seleccionado apostar seleccionar opciones de apuesta.
 # Etapa 03. Diseño de la solucion.
 Diagrama de clase.
 
-![]()
+![](https://github.com/VICTORANIEV/TheFinalProject/blob/main/Thefinalprojet.png)
 
 # Etapa 04. Desarrollo de la solucion.
 

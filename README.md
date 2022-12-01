@@ -10,15 +10,22 @@
 
 # Etapa 02. Especificaciones.
 
+Entrada:
+Nombre del usuario, Elejir seleccion de interes, Elejir jugador.
+Proceso:
+una ves elejida la seleccion dar los datos de la seleccion, despues de elejir la seleccion elegir un jugador y mostrar sus datos.
+Salida:
+Dar datos de la seleccion como: partidos jugados, Dar datos del jugador 
+
 ~~~
 +------------------------------------------------------------------+
-EL MUNDIALITO
+              EL MUNDIALITO
 
-- Como puedo llamarte: 
+              - Como puedo llamarte: 
 
-- En que seleccion estas interesado:
+              - En que seleccion estas interesado:
 
-- 
+              - 
 
 
 

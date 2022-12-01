@@ -23,11 +23,14 @@ Dar datos de la seleccion como: partidos jugados, Dar datos del jugador
 +------------------------------------------------------------------+
               EL MUNDIALITO
 
-              - Como puedo llamarte: 
+              - Como puedo llamarte: Cristhian
+              - Hola Cristhian.
 
-              - En que seleccion estas interesado:
-
-              - 
+              - En que seleccion estas interesado: México
+              - Datos de la seleccion.
+              
+              - En que jugador esta interesado: Guillermo Ochoa.
+              - Datos del jugador seleccionado.
 
 
 

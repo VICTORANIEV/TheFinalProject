@@ -6,7 +6,7 @@
 
 -Centrandonos principalmente en CONCACAF y relacionado con el mundial del 2022.
 
-![](https://github.com/VICTORANIEV/TheFinalProject/blob/main/concacaf.jpg)
+![]()
 
 # Etapa 02. Especificaciones.
 

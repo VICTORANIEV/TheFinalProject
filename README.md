@@ -8,6 +8,22 @@
 
 # Etapa 02. Especificaciones.
 
+~~~
++------------------------------------------------------------------+
+EL MUNDIALITO
+
+- Como puedo llamarte: 
+
+- En que seleccion estas interesado:
+
+- 
+
+
+
++-----------------------------------------------------------------++
+~~~
+
+
 # Etapa 03. Diseño de la solucion.
 ![]()
 

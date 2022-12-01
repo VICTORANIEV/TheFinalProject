@@ -10,11 +10,13 @@
 
 # Etapa 02. Especificaciones.
 
-Entrada:
+-Entrada:
 Nombre del usuario, Elejir seleccion de interes, Elejir jugador.
-Proceso:
+
+-Proceso:
 una ves elejida la seleccion dar los datos de la seleccion, despues de elejir la seleccion elegir un jugador y mostrar sus datos.
-Salida:
+
+-Salida:
 Dar datos de la seleccion como: partidos jugados, Dar datos del jugador 
 
 ~~~

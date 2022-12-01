@@ -1,10 +1,14 @@
 # TheFinalProject
 
+- Victor Aniev Rivera Roano     22TE0019
+- Jair Gregorio Hernandez       22TE0027
+- Cristian Lopez Garcia         22TE0034
+
 # Etapa 01. Descripción del problema.
 
 -Crear un programa en el cual se pueda consultar los resultados de las selecciones de futbol seleccionadas, tambien se puede consultar las caracteristicas tanto del equipo como de los jugadores. 
 
--como extra dar la opcion de apostar y en la selccion de apuestas aplicar descuentos.
+-Como extra dar la opcion de apostar y en la selccion de apuestas aplicar descuentos.
 
 -Centrandonos principalmente en CONCACAF y relacionado con el mundial del 2022.
 
@@ -46,6 +50,8 @@ Si ha seleccionado apostar seleccionar opciones de apuesta.
 
 
 # Etapa 03. Diseño de la solucion.
+Diagrama de clase.
+
 ![]()
 
 # Etapa 04. Desarrollo de la solucion.

@@ -11,13 +11,15 @@
 # Etapa 02. Especificaciones.
 
 -Entrada:
-Nombre del usuario, Elejir seleccion de interes, Elejir jugador.
+Nombre del usuario, Elejir seleccion de interes, Elejir jugador, Dar la opcion de apostar.
 
 -Proceso:
 una ves elejida la seleccion dar los datos de la seleccion, despues de elejir la seleccion elegir un jugador y mostrar sus datos.
+Si ha seleccionado apostar dar opciones de apuesta.
 
 -Salida:
-Dar datos de la seleccion como: partidos jugados, Dar datos del jugador 
+Dar datos de la seleccion como: partidos jugados, Dar datos del jugador.
+Si ha seleccionado apostar seleccionar opciones de apuesta.
 
 ~~~
 +------------------------------------------------------------------+
@@ -31,6 +33,9 @@ Dar datos de la seleccion como: partidos jugados, Dar datos del jugador
               
               - En que jugador esta interesado: Guillermo Ochoa.
               - Datos del jugador seleccionado.
+              
+              - Desea apostar:
+              - 
 
 
 

@@ -6,7 +6,7 @@
 
 -Centrandonos principalmente en CONCACAF y relacionado con el mundial del 2022.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.poresto.net%2Fdeportes%2F2022%2F3%2F30%2Fasi-quedo-la-clasificacion-de-la-eliminatoria-de-la-concacaf-para-qatar-2022-326814.html&psig=AOvVaw3mjkMk4R6Jgk1XhDt3cMib&ust=1669992351725000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDNwcLU2PsCFQAAAAAdAAAAABAJ)
+![]()
 
 # Etapa 02. Especificaciones.
 
